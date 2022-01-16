@@ -1,0 +1,16 @@
+Bug Name
+Bug ID
+Area Path
+Build Number
+Severity
+Priority
+Assigned to
+Reported by
+Reported on
+Reason
+Status
+Environment
+
+Description
+Steps to reproduce
+Expected result
